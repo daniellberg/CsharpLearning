@@ -1,0 +1,14 @@
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/bin/Debug/net7.0/multidimensional-array
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/bin/Debug/net7.0/multidimensional-array.deps.json
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/bin/Debug/net7.0/multidimensional-array.runtimeconfig.json
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/bin/Debug/net7.0/multidimensional-array.dll
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/bin/Debug/net7.0/multidimensional-array.pdb
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/obj/Debug/net7.0/multidimensional-array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/obj/Debug/net7.0/multidimensional-array.AssemblyInfoInputs.cache
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/obj/Debug/net7.0/multidimensional-array.AssemblyInfo.cs
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/obj/Debug/net7.0/multidimensional-array.csproj.CoreCompileInputs.cache
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/obj/Debug/net7.0/multidimensional-array.dll
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/obj/Debug/net7.0/refint/multidimensional-array.dll
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/obj/Debug/net7.0/multidimensional-array.pdb
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/obj/Debug/net7.0/multidimensional-array.genruntimeconfig.cache
+/Users/daniel/Documents/daniel/coding/CsharpProjects/multidimensional-array/obj/Debug/net7.0/ref/multidimensional-array.dll
