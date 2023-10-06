@@ -1,0 +1,14 @@
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/obj/Debug/net7.0/desafioForeach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/obj/Debug/net7.0/desafioForeach.AssemblyInfoInputs.cache
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/obj/Debug/net7.0/desafioForeach.AssemblyInfo.cs
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/obj/Debug/net7.0/desafioForeach.csproj.CoreCompileInputs.cache
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/bin/Debug/net7.0/desafioForeach
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/bin/Debug/net7.0/desafioForeach.deps.json
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/bin/Debug/net7.0/desafioForeach.runtimeconfig.json
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/bin/Debug/net7.0/desafioForeach.dll
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/bin/Debug/net7.0/desafioForeach.pdb
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/obj/Debug/net7.0/desafioForeach.dll
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/obj/Debug/net7.0/refint/desafioForeach.dll
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/obj/Debug/net7.0/desafioForeach.pdb
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/obj/Debug/net7.0/desafioForeach.genruntimeconfig.cache
+/Users/daniel/Documents/daniel/coding/CsharpProjects/inventory/desafioForeach/obj/Debug/net7.0/ref/desafioForeach.dll
