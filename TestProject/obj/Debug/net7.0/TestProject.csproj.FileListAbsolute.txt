@@ -1,0 +1,14 @@
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/Users/daniel/Documents/daniel/coding/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
